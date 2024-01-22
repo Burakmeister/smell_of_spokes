@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "226195233828",
+    "project_id": "smell-of-spokes",
+    "storage_bucket": "smell-of-spokes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226195233828:android:1250d327518c962a6b8cb1",
+        "android_client_info": {
+          "package_name": "com.example.smell_of_spokes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChQJoQk6Hx4hWyObbxLl_fEeqcSUg3GwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
